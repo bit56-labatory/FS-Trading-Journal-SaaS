@@ -8,7 +8,7 @@ A full-stack trading journal application built with:
 - Express
 - PostgreSQL
 
-## pROGRESS
+## PROGRESS
 
 - [x] Phase 1: Database Schema 
 - [ ] Phase 2: Backend API
